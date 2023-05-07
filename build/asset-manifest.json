@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/E-Resource-Technology/static/css/main.51a04d70.css",
+    "main.js": "/E-Resource-Technology/static/js/main.a5609123.js",
+    "static/js/787.252c5a3f.chunk.js": "/E-Resource-Technology/static/js/787.252c5a3f.chunk.js",
+    "index.html": "/E-Resource-Technology/index.html",
+    "main.51a04d70.css.map": "/E-Resource-Technology/static/css/main.51a04d70.css.map",
+    "main.a5609123.js.map": "/E-Resource-Technology/static/js/main.a5609123.js.map",
+    "787.252c5a3f.chunk.js.map": "/E-Resource-Technology/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51a04d70.css",
+    "static/js/main.a5609123.js"
+  ]
+}
