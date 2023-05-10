@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/E-Resource-Technology/static/css/main.e00efc0b.css",
-    "main.js": "/E-Resource-Technology/static/js/main.7b9ed50f.js",
-    "static/js/787.252c5a3f.chunk.js": "/E-Resource-Technology/static/js/787.252c5a3f.chunk.js",
-    "index.html": "/E-Resource-Technology/index.html",
-    "main.e00efc0b.css.map": "/E-Resource-Technology/static/css/main.e00efc0b.css.map",
-    "main.7b9ed50f.js.map": "/E-Resource-Technology/static/js/main.7b9ed50f.js.map",
-    "787.252c5a3f.chunk.js.map": "/E-Resource-Technology/static/js/787.252c5a3f.chunk.js.map"
+    "main.css": "/E-Resource/static/css/main.817ff164.css",
+    "main.js": "/E-Resource/static/js/main.bb8cfd85.js",
+    "static/js/787.252c5a3f.chunk.js": "/E-Resource/static/js/787.252c5a3f.chunk.js",
+    "index.html": "/E-Resource/index.html",
+    "main.817ff164.css.map": "/E-Resource/static/css/main.817ff164.css.map",
+    "main.bb8cfd85.js.map": "/E-Resource/static/js/main.bb8cfd85.js.map",
+    "787.252c5a3f.chunk.js.map": "/E-Resource/static/js/787.252c5a3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e00efc0b.css",
-    "static/js/main.7b9ed50f.js"
+    "static/css/main.817ff164.css",
+    "static/js/main.bb8cfd85.js"
   ]
 }
